@@ -1,1 +1,2 @@
 Hoi, welkom op onze site
+<a href='Puck.html'>Over Puck</a><br> 
