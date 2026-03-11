@@ -1,2 +1,3 @@
-Hoi, welkom op onze site
+<h1>Welkom op onze site!</h1> 
 <a href='Puck.html'>Over Puck</a><br> 
+<a href='Jackie.html'>Over Jackie</a> 
